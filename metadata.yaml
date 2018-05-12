@@ -1,0 +1,50 @@
+_repo: Nurse-Heatherdale-s-Story_39047
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leslie
+    - Brooke, Leonard Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+covers:
+- cover_type: archival
+  image_path: 39047-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Mrs. (Mary Louisa) Molesworth
+    - Molesworth, Mary Louisa Stewart
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: British author Mary Louisa Molesworth rose to acclaim as the Jane Austen
+  for Victorian tweens. Like most of her novels, Nurse Heatherdale's Story is packed
+  with romance, adventure and important life lessons for girls on the brink of maturity.
+  Young readers will delight in this whimsical, engaging tale.
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Wealth -- Juvenile fiction'
+- !lcsh 'Smugglers -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Nannies -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Nurse Heatherdale's Story
+url: http://www.gutenberg.org/ebooks/39047
